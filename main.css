@@ -1,5 +1,5 @@
 .none { 
-	color: gray; 
+	color: #ffffff; 
 }
 
 .queued { 
@@ -7,5 +7,9 @@
 }
 
 .ready { 
-	color: green; 
+	color: #40E0D0; 
+}
+button {
+	background-color: #9d81a2;
+	padding: 5px;
 }
